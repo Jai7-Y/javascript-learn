@@ -1,6 +1,0 @@
-// Object literals
-const JsUser = {
-    name: "Jai",
-    age: 24,
-    location: "Noida"
-}
